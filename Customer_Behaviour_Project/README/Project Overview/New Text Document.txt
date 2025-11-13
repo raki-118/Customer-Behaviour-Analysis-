@@ -1,0 +1,11 @@
+The project aims to analyze restaurant business performance and customer satisfaction through:
+
+Understanding geographical distribution of restaurants
+
+Analyzing average ratings and votes
+
+Identifying top cuisines and price trends
+
+Evaluating impact of online delivery and table booking on ratings
+
+Providing insights for business decisions and dashboard visualization

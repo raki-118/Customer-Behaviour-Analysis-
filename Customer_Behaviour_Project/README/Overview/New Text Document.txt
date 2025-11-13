@@ -1,0 +1,2 @@
+This project focuses on Restaurant Data Analysis, derived from a global restaurant dataset similar to Zomato’s restaurant database.
+The objective is to explore restaurant trends, analyze customer ratings, identify top cuisines, and provide insights into factors influencing restaurant performance across different cities and countries.

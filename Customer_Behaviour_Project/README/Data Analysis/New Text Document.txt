@@ -1,0 +1,66 @@
+a. General Overview
+
+Total Restaurants: 9,551
+
+Total Cities Covered: 141
+
+Most Restaurants in: New Delhi (5,473)
+
+Common Currency: Indian Rupees (Rs.) (≈ 90% of records)
+
+b. Cuisine Insights
+
+Most Popular Cuisine: North Indian (936 restaurants)
+
+Other frequent cuisines: Chinese, Fast Food, Continental, Italian
+
+Many restaurants offer multi-cuisine menus (avg. 2–3 cuisines per restaurant)
+
+c. Rating Analysis
+Rating Text	Count	Percentage	Color
+Excellent	888	9.3%	Dark Green
+Very Good	1500+	15.7%	Green
+Good	1450+	15.2%	Yellow
+Average	3737	39.1%	Orange
+Poor	1976	20.7%	Red
+
+Average rating: 2.66 / 5
+
+Most ratings fall between 2.5 – 3.7
+
+Very few restaurants achieve ratings above 4.5
+
+d. Pricing and Cost Distribution
+
+Average cost for two: ₹1,199
+
+75% of restaurants charge less than ₹700 for two people
+
+Some outliers with cost up to ₹8,00,000 (luxury or special event restaurants)
+
+Price range: Majority rated as 1 or 2 (affordable/mid-range)
+
+e. Online Delivery & Table Booking
+Service	Yes	No
+Table Booking	12%	88%
+Online Delivery	26%	74%
+
+Restaurants offering online delivery tend to have slightly higher ratings.
+
+Table booking is less common, mostly in premium locations.
+
+f. Country Insights
+
+Majority of restaurants belong to India (Country Code 1)
+
+Other countries represented: Philippines, UAE, USA, Brazil, etc.
+
+Ratings and cost vary significantly across regions (higher prices in international entries).
+
+g. Votes and Engagement
+
+Average votes per restaurant: 157
+
+Top voted restaurants: exceed 10,000 votes
+
+Restaurants with high votes often have excellent ratings and multiple cuisines
